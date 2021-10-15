@@ -46,24 +46,6 @@
       "back": "Renders the first matching child <Route> ",
       "deckId": 2,
       "id": 5
-    },
-    {
-      "front": "test",
-      "back": "test",
-      "id": 7,
-      "deckId": 1
-    },
-    {
-      "front": "b",
-      "back": "bbb",
-      "id": 8,
-      "deckId": 1
-    },
-    {
-      "front": "testt",
-      "back": "testttt",
-      "deckId": 1,
-      "id": 9
     }
   ]
 }
